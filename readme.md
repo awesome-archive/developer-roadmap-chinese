@@ -54,19 +54,19 @@
 
 ## 介紹
 
-![Web 開發人員路線圖介紹](./chinese-version/images/intro.png)
+![Web 開發人員路線圖介紹](./chinese-version/img/intro.png)
 
 ## 前端 Frontend 路線圖
 
-![前端 Frontend 路線圖](./chinese-version/images/frontend.png)
+![前端 Frontend 路線圖](./chinese-version/img/frontend.png)
 
 ## 後端 Back-end 路線圖
 
-![後端 Back-end 路線圖](./chinese-version/images/backend.png)
+![後端 Back-end 路線圖](./chinese-version/img/backend.png)
 
 ## DevOps 路線圖
 
-![DevOps 路線圖](./chinese-version/images/devops.png)
+![DevOps 路線圖](./chinese-version/img/devops.png)
 
 ## 🚦 總結
 
