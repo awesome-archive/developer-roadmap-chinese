@@ -4,6 +4,11 @@
 
 此專案的所有顯著更改都將記錄在此文件中。以下版本號皆依 [原著 Commit hash](https://github.com/kamranahmedse/developer-roadmap/commits/master) 為主。
 
+## [`a42d241`](https://github.com/kamranahmedse/developer-roadmap/tree/a42d24142098760b4eba657be8954b0ab0cc31c9) - 2021-01-09
+
+- 更新至 2021 年版本
+- 授權條款：此專案改由 CC BY-NC-SA 4.0 釋出
+
 ## [`347831f`](https://github.com/kamranahmedse/developer-roadmap/tree/347831feaed227f42525e829ccc8d84a22386952) - 2020-01-04
 
 - 更新官網徽章按鈕
