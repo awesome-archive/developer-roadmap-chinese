@@ -6,14 +6,14 @@
           "ID": "0",
           "typeID": "Label",
           "zOrder": "0",
-          "measuredW": "328",
+          "measuredW": "354",
           "measuredH": "40",
-          "x": "500",
+          "x": "488",
           "y": "74",
           "properties": {
             "bold": "true",
             "size": "32",
-            "text": "2019 的 Web 開發人員"
+            "text": "2021 年的 Web 開發人員"
           }
         },
         {
@@ -28,8 +28,6 @@
           "y": "230",
           "properties": {
             "color": "2848996",
-            "curvature": "1",
-            "direction": "top",
             "leftArrow": "false",
             "p0": {
               "x": 0,
@@ -42,8 +40,7 @@
             "p2": {
               "x": 73,
               "y": 128
-            },
-            "shape": "bezier"
+            }
           }
         },
         {
@@ -58,7 +55,6 @@
           "y": "229",
           "properties": {
             "color": "2848996",
-            "curvature": "1",
             "direction": "bottom",
             "leftArrow": "false",
             "p0": {
@@ -72,8 +68,7 @@
             "p2": {
               "x": 1,
               "y": 129
-            },
-            "shape": "bezier"
+            }
           }
         },
         {
@@ -81,14 +76,14 @@
           "typeID": "TextInput",
           "zOrder": "3",
           "w": "132",
-          "measuredW": "128",
-          "measuredH": "31",
+          "measuredW": "122",
+          "measuredH": "30",
           "x": "441",
           "y": "367",
           "properties": {
             "align": "center",
             "color": "16767334",
-            "size": "17",
+            "size": "16",
             "text": "前端 Front-end"
           }
         },
@@ -111,7 +106,7 @@
           "typeID": "TextInput",
           "zOrder": "5",
           "w": "288",
-          "measuredW": "127",
+          "measuredW": "125",
           "measuredH": "32",
           "x": "68",
           "y": "81",
@@ -127,10 +122,10 @@
           "typeID": "TextInput",
           "zOrder": "6",
           "w": "289",
-          "measuredW": "50",
+          "measuredW": "49",
           "measuredH": "32",
           "x": "67",
-          "y": "353",
+          "y": "318",
           "properties": {
             "align": "center",
             "color": "16776960",
@@ -143,10 +138,10 @@
           "typeID": "TextInput",
           "zOrder": "7",
           "w": "289",
-          "measuredW": "187",
+          "measuredW": "181",
           "measuredH": "32",
           "x": "67",
-          "y": "391",
+          "y": "356",
           "properties": {
             "align": "center",
             "color": "16776960",
@@ -186,54 +181,8 @@
         },
         {
           "ID": "10",
-          "typeID": "Label",
-          "zOrder": "10",
-          "measuredW": "34",
-          "measuredH": "25",
-          "x": "976",
-          "y": "41",
-          "properties": {
-            "bold": "true",
-            "size": "17",
-            "text": "圖例"
-          }
-        },
-        {
-          "ID": "11",
-          "typeID": "TextInput",
-          "zOrder": "11",
-          "w": "240",
-          "measuredW": "104",
-          "measuredH": "32",
-          "x": "976",
-          "y": "84",
-          "properties": {
-            "align": "center",
-            "color": "16776960",
-            "size": "18",
-            "text": "個人推薦！"
-          }
-        },
-        {
-          "ID": "12",
-          "typeID": "TextInput",
-          "zOrder": "12",
-          "w": "240",
-          "measuredW": "104",
-          "measuredH": "32",
-          "x": "976",
-          "y": "124",
-          "properties": {
-            "align": "center",
-            "color": "16770457",
-            "size": "18",
-            "text": "可能的選項"
-          }
-        },
-        {
-          "ID": "13",
           "typeID": "Arrow",
-          "zOrder": "13",
+          "zOrder": "10",
           "w": "1",
           "h": "47",
           "measuredW": "150",
@@ -243,7 +192,6 @@
           "properties": {
             "color": "6710886",
             "curvature": "0",
-            "direction": "top",
             "leftArrow": "false",
             "p0": {
               "x": 0,
@@ -257,30 +205,29 @@
               "x": 0,
               "y": 46
             },
-            "rightArrow": "false",
-            "shape": "bezier"
+            "rightArrow": "false"
           }
         },
         {
-          "ID": "14",
+          "ID": "11",
           "typeID": "TextInput",
-          "zOrder": "14",
-          "w": "127",
-          "measuredW": "126",
-          "measuredH": "31",
-          "x": "673",
+          "zOrder": "11",
+          "w": "121",
+          "measuredW": "121",
+          "measuredH": "30",
+          "x": "679",
           "y": "368",
           "properties": {
             "align": "center",
             "color": "16767334",
-            "size": "17",
+            "size": "16",
             "text": "後端 Back-end"
           }
         },
         {
-          "ID": "15",
+          "ID": "12",
           "typeID": "Arrow",
-          "zOrder": "15",
+          "zOrder": "12",
           "w": "2",
           "h": "71",
           "measuredW": "150",
@@ -290,7 +237,6 @@
           "properties": {
             "color": "2848996",
             "curvature": "0",
-            "direction": "top",
             "leftArrow": "false",
             "p0": {
               "x": 0,
@@ -305,14 +251,13 @@
               "y": 69
             },
             "rightArrow": "false",
-            "shape": "bezier",
             "stroke": "dotted"
           }
         },
         {
-          "ID": "16",
+          "ID": "13",
           "typeID": "Arrow",
-          "zOrder": "16",
+          "zOrder": "13",
           "w": "123",
           "h": "12",
           "measuredW": "150",
@@ -335,17 +280,15 @@
             "p2": {
               "x": 122,
               "y": 4
-            },
-            "shape": "bezier",
-            "stroke": "solid"
+            }
           }
         },
         {
-          "ID": "17",
+          "ID": "14",
           "typeID": "TextInput",
-          "zOrder": "17",
+          "zOrder": "14",
           "w": "112",
-          "measuredW": "81",
+          "measuredW": "80",
           "measuredH": "32",
           "x": "946",
           "y": "361",
@@ -357,9 +300,9 @@
           }
         },
         {
-          "ID": "18",
+          "ID": "15",
           "typeID": "Arrow",
-          "zOrder": "18",
+          "zOrder": "15",
           "w": "2",
           "h": "71",
           "measuredW": "150",
@@ -368,8 +311,6 @@
           "y": "410",
           "properties": {
             "color": "2848996",
-            "curvature": "1",
-            "direction": "top",
             "leftArrow": "false",
             "p0": {
               "x": 0,
@@ -384,14 +325,13 @@
               "y": 69
             },
             "rightArrow": "false",
-            "shape": "bezier",
             "stroke": "dotted"
           }
         },
         {
-          "ID": "19",
+          "ID": "16",
           "typeID": "Arrow",
-          "zOrder": "19",
+          "zOrder": "16",
           "w": "1",
           "h": "77",
           "measuredW": "150",
@@ -400,8 +340,6 @@
           "y": "403",
           "properties": {
             "color": "2848996",
-            "curvature": "1",
-            "direction": "top",
             "leftArrow": "false",
             "p0": {
               "x": 0,
@@ -416,31 +354,29 @@
               "y": 76
             },
             "rightArrow": "false",
-            "shape": "bezier",
             "stroke": "dotted"
           }
         },
         {
-          "ID": "20",
+          "ID": "17",
           "typeID": "TextInput",
-          "zOrder": "20",
+          "zOrder": "17",
           "w": "288",
-          "measuredW": "70",
+          "measuredW": "71",
           "measuredH": "32",
           "x": "68",
-          "y": "236",
+          "y": "201",
           "properties": {
             "align": "center",
-            "borderStyle": "rectangle",
             "color": "16776960",
             "size": "18",
             "text": "GitHub"
           }
         },
         {
-          "ID": "21",
+          "ID": "18",
           "typeID": "TextInput",
-          "zOrder": "21",
+          "zOrder": "18",
           "w": "288",
           "measuredW": "158",
           "measuredH": "32",
@@ -454,14 +390,14 @@
           }
         },
         {
-          "ID": "22",
+          "ID": "19",
           "typeID": "TextInput",
-          "zOrder": "22",
+          "zOrder": "19",
           "w": "288",
-          "measuredW": "269",
+          "measuredW": "268",
           "measuredH": "32",
           "x": "68",
-          "y": "469",
+          "y": "434",
           "properties": {
             "align": "center",
             "color": "16776960",
@@ -470,14 +406,14 @@
           }
         },
         {
-          "ID": "23",
+          "ID": "20",
           "typeID": "TextInput",
-          "zOrder": "23",
+          "zOrder": "20",
           "w": "288",
-          "measuredW": "227",
+          "measuredW": "226",
           "measuredH": "32",
           "x": "68",
-          "y": "430",
+          "y": "395",
           "properties": {
             "align": "center",
             "color": "16776960",
@@ -486,61 +422,200 @@
           }
         },
         {
-          "ID": "24",
+          "ID": "21",
           "typeID": "TextInput",
-          "zOrder": "24",
-          "w": "288",
-          "measuredW": "199",
-          "measuredH": "32",
-          "x": "68",
-          "y": "197",
-          "properties": {
-            "align": "center",
-            "color": "16776960",
-            "size": "18",
-            "text": "SOLID、KISS、YAGNI"
-          }
-        },
-        {
-          "ID": "25",
-          "typeID": "TextInput",
-          "zOrder": "25",
+          "zOrder": "21",
           "w": "288",
           "measuredW": "169",
           "measuredH": "32",
           "x": "68",
-          "y": "275",
+          "y": "240",
           "properties": {
             "align": "center",
-            "borderStyle": "rectangle",
             "color": "16776960",
             "size": "18",
             "text": "授權條款 (License)"
           }
         },
         {
-          "ID": "26",
+          "ID": "22",
           "typeID": "TextInput",
-          "zOrder": "26",
+          "zOrder": "22",
           "w": "288",
-          "measuredW": "275",
-          "measuredH": "31",
+          "measuredW": "288",
+          "measuredH": "32",
           "x": "68",
-          "y": "314",
+          "y": "279",
           "properties": {
             "align": "center",
-            "borderStyle": "rectangle",
             "color": "16776960",
-            "size": "17",
+            "size": "18",
             "text": "語意化版本 (Semantic Versioning)"
+          }
+        },
+        {
+          "ID": "23",
+          "typeID": "__group__",
+          "zOrder": "23",
+          "measuredW": "350",
+          "measuredH": "141",
+          "w": "350",
+          "h": "141",
+          "x": "924",
+          "y": "81",
+          "children": {
+            "controls": {
+              "control": [
+                {
+                  "ID": "0",
+                  "typeID": "Canvas",
+                  "zOrder": "0",
+                  "w": "350",
+                  "h": "141",
+                  "measuredW": "100",
+                  "measuredH": "70",
+                  "x": "0",
+                  "y": "0"
+                },
+                {
+                  "ID": "1",
+                  "typeID": "Label",
+                  "zOrder": "1",
+                  "measuredW": "187",
+                  "measuredH": "25",
+                  "x": "14",
+                  "y": "17",
+                  "properties": {
+                    "size": "17",
+                    "text": "查看此路線圖的詳細版本"
+                  }
+                },
+                {
+                  "ID": "2",
+                  "typeID": "Label",
+                  "zOrder": "2",
+                  "measuredW": "204",
+                  "measuredH": "25",
+                  "x": "14",
+                  "y": "45",
+                  "properties": {
+                    "size": "17",
+                    "text": "以及各式資源和其他路線圖"
+                  }
+                },
+                {
+                  "ID": "3",
+                  "typeID": "Canvas",
+                  "zOrder": "3",
+                  "w": "320",
+                  "h": "45",
+                  "measuredW": "100",
+                  "measuredH": "70",
+                  "x": "15",
+                  "y": "81",
+                  "properties": {
+                    "borderColor": "4273622",
+                    "color": "4273622"
+                  }
+                },
+                {
+                  "ID": "4",
+                  "typeID": "__group__",
+                  "zOrder": "4",
+                  "measuredW": "170",
+                  "measuredH": "29",
+                  "w": "170",
+                  "h": "29",
+                  "x": "91",
+                  "y": "89",
+                  "children": {
+                    "controls": {
+                      "control": [
+                        {
+                          "ID": "0",
+                          "typeID": "Label",
+                          "zOrder": "0",
+                          "measuredW": "105",
+                          "measuredH": "28",
+                          "x": "65",
+                          "y": "0",
+                          "properties": {
+                            "color": "16777215",
+                            "size": "20",
+                            "text": "roadmap.sh"
+                          }
+                        },
+                        {
+                          "ID": "1",
+                          "typeID": "Label",
+                          "zOrder": "1",
+                          "measuredW": "35",
+                          "measuredH": "28",
+                          "x": "0",
+                          "y": "0",
+                          "properties": {
+                            "color": "16777215",
+                            "size": "20",
+                            "text": "http"
+                          }
+                        },
+                        {
+                          "ID": "2",
+                          "typeID": "Label",
+                          "zOrder": "2",
+                          "measuredW": "5",
+                          "measuredH": "28",
+                          "x": "37",
+                          "y": "0",
+                          "properties": {
+                            "bold": "true",
+                            "color": "16777215",
+                            "size": "20",
+                            "text": ":"
+                          }
+                        },
+                        {
+                          "ID": "3",
+                          "typeID": "Label",
+                          "zOrder": "3",
+                          "measuredW": "10",
+                          "measuredH": "28",
+                          "x": "44",
+                          "y": "1",
+                          "properties": {
+                            "color": "16777215",
+                            "size": "20",
+                            "text": "/"
+                          }
+                        },
+                        {
+                          "ID": "4",
+                          "typeID": "Label",
+                          "zOrder": "4",
+                          "measuredW": "10",
+                          "measuredH": "28",
+                          "x": "52",
+                          "y": "1",
+                          "properties": {
+                            "color": "16777215",
+                            "size": "20",
+                            "text": "/"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
           }
         }
       ]
     },
-    "mockupH": "460",
-    "mockupW": "1149",
-    "measuredW": "1216",
-    "measuredH": "501",
+    "mockupH": "436",
+    "mockupW": "1207",
+    "measuredW": "1274",
+    "measuredH": "481",
     "version": "1.0"
   }
 }
