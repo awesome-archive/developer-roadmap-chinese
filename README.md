@@ -39,10 +39,11 @@
 
 ## 台灣正體中文翻譯
 
-[![Twitter 發推](https://img.shields.io/badge/Twitter-發推-blue.svg)](https://twitter.com/home?status=%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E8%B7%AF%E7%B7%9A%E5%9C%96%20by%20%40kamranahmedse%0A%E5%8F%B0%E7%81%A3%E6%AD%A3%E9%AB%94%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AD%AF%20by%20%40littlegoodjack%0Ahttps%3A//github.com/goodjack/developer-roadmap-chinese)
-[![Facebook 分享](https://img.shields.io/badge/Facebook-分享-blue.svg)](https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/goodjack/developer-roadmap-chinese)
-[![Plurk 發噗](https://img.shields.io/badge/Plurk-發噗-orange.svg)](http://www.plurk.com/?status=https%3A//github.com/goodjack/developer-roadmap-chinese)
-[![翻譯回饋 @littlegoodjack](https://img.shields.io/badge/翻譯回饋-@littlegoodjack-blue.svg)](https://twitter.com/littlegoodjack)
+[![Twitter 發推](https://img.shields.io/badge/Twitter-發推-20a1f1.svg?style=flat-square&logo=twitter)](https://twitter.com/intent/tweet/?text=%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E8%B7%AF%E7%B7%9A%E5%9C%96%20by%20%40kamranahmedse%0A%E5%8F%B0%E7%81%A3%E6%AD%A3%E9%AB%94%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AD%AF%20by%20%40littlegoodjack&url=https%3A//github.com/goodjack/developer-roadmap-chinese)
+[![Facebook 分享](https://img.shields.io/badge/Facebook-分享-2d87ff.svg?style=flat-square&logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/goodjack/developer-roadmap-chinese&quote=%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E8%B7%AF%E7%B7%9A%E5%9C%96%20by%20%40kamranahmedse%0A%E5%8F%B0%E7%81%A3%E6%AD%A3%E9%AB%94%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AD%AF%20by%20%40littlegoodjack)
+[![Plurk 發噗](https://img.shields.io/badge/Plurk-發噗-fe574d.svg?style=flat-square&logo=plurk)](http://www.plurk.com/?status=https%3A//github.com/goodjack/developer-roadmap-chinese)
+[![LINE 分享](https://img.shields.io/badge/LINE-分享-04c755.svg?style=flat-square&logo=line)](https://social-plugins.line.me/lineit/share?text=%E9%96%8B%E7%99%BC%E4%BA%BA%E5%93%A1%E8%B7%AF%E7%B7%9A%E5%9C%96%20by%20%40kamranahmedse%0A%E5%8F%B0%E7%81%A3%E6%AD%A3%E9%AB%94%E4%B8%AD%E6%96%87%E7%BF%BB%E8%AD%AF%20by%20%40littlegoodjack&url=https%3A//github.com/goodjack/developer-roadmap-chinese)
+[![翻譯回饋 @littlegoodjack](https://img.shields.io/badge/翻譯回饋-@littlegoodjack-20a1f1.svg?style=flat-square&logo=twitter)](https://twitter.com/littlegoodjack)
 
 ### 翻譯狀態
 
