@@ -8,7 +8,31 @@
 
 - 更新至 2021 年版本
 - 授權條款：此專案改由 CC BY-NC-SA 4.0 釋出
-- 介紹：移除「SOLID、KISS、YAGNI」
+- 介紹
+  - 移除「SOLID、KISS、YAGNI」
+- 前端
+  - 新增全新段落
+    - 網際網路
+    - VCS
+    - 網路安全知識
+    - Web 元件
+    - GraphQL
+  - HTML：新增「表單和驗證」、「慣例和最佳做法」
+  - CSS：新增「回應式設計」
+  - CSS 架構：已不推薦 OOCSS 和 SMACSS
+  - 任務執行器：已不推薦 Gulp
+  - 格式化工具：已不推薦 StandardJS，並移除 JSHint 與 JSLint
+  - 模組打包工具：更改推薦順序為 Webpack > Rollup > Parcel
+  - React.js：優先推薦使用 Redux
+  - 現代 CSS：從 CSS in JS 段落更名而來，新增 Styled JSX 作為替代選項，已不推薦 Radium 和 Glamorous
+  - CSS 框架：新增一些以 JS component 為基礎的框架，移除 Semantic UI
+  - 測試工具：新增 react-testing-library，已不推薦 Mocha、Chai、Ava、Jasmine，移除 Karma 和 Protractor
+  - 類型檢查工具：已不推薦 Flow
+  - SSR：已不推薦 After.js
+  - SSG：新增多個工具，並新增推薦 Next.js
+  - 手機應用程式：新增 Flutter 和 Ionic
+  - 桌面應用程式：已不推薦 Carlo 和 Proton Native
+  - WASM：更新敘述
 
 ## [`347831f`](https://github.com/kamranahmedse/developer-roadmap/tree/347831feaed227f42525e829ccc8d84a22386952) - 2020-01-04
 
