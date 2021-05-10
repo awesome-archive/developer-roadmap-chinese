@@ -89,6 +89,29 @@
   - 手機應用程式：新增 Flutter 和 Ionic
   - 桌面應用程式：已不推薦 Carlo 和 Proton Native
   - WASM：更新敘述
+- 後端
+  - 舊有的文字敘述方式已經替換成全新的樹狀地圖
+  - 新增段落
+    - 網際網路
+    - 基礎的前端知識
+    - 網路安全知識
+    - 作業系統和基本知識，包含 POSIX 的基礎知識、基礎的終端機指令等內容
+    - 版本控制系統
+    - 倉儲代管服務
+    - 更多關於資料庫，如 ORM、ACID、交易、N+1、正規化、索引
+    - CI/CD
+    - 設計和開發原則
+    - 架構模式
+    - GraphQL 改為段落
+    - 圖形資料庫改為段落
+    - 規模化建設
+  - 程式語言段落：推薦 JavaScript，其他語言為替代選項，移除函數程式語言
+  - 關聯式資料庫：原本優先推薦 MySQL，現在推薦 PostgreSQL，MySQL 與 MariaDB 改為替代選項
+  - NoSQL 資料庫：增加分類，並更新推薦與替代選項
+  - 擴充 API 段落：REST、JSON、SOAP、gRPC、HATEOAS、OpenAPI 規範
+  - API 認證段落：OpenID 改為替代選想，加入 Cookie Based 和 SAML 兩個替代選項
+  - 搜尋引擎：Solr 改為替代選項，移除 Sphinx
+  - 網頁伺服器：Apache 改為替代選項
 
 </details>
 
