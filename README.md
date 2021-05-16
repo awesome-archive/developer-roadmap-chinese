@@ -112,6 +112,25 @@
   - API 認證段落：OpenID 改為替代選想，加入 Cookie Based 和 SAML 兩個替代選項
   - 搜尋引擎：Solr 改為替代選項，移除 Sphinx
   - 網頁伺服器：Apache 改為替代選項
+- DevOps
+  - 新增段落
+    - Linux 改為段落
+    - Unix 改為段落
+    - 終端機多工器
+    - 服務網格
+    - 雲端設計模式
+  - 學習程式語言：將 C 與 C++ 分開條列
+  - 瞭解不同的作業系統概念：新增 POSIX 的基礎知識、網路概念、init.d、systemd
+  - 終端機：網路工具新增 netstat
+  - 網路與安全：擴充為「網路、安全與協定」，新增 SSH、Port Forwarding，以及新增 email 子段落
+  - 網頁伺服器：Apache 改為替代選項
+  - 容器：移除 rkt
+  - 基礎建設佈建：新增 Pulumi 為替代選項
+  - 學習一些 CI/CD 工具：TeamCity 改為替代選項，移除 Drone，推薦 Gitlab CI、GitHub Actions，新增替代選項 Bamboo、Azure DevOps Services
+  - 基礎建設監控：新增推薦 Prometheus、Grafana，移除 Icinga
+  - 應用程式監控：新增推薦 Jaeger，New Relic 改為推薦，新增 Instana、OpenTracing 為替代選項
+  - 日誌管理：ELK Stack 更新為 Elastic Stack，並推薦使用
+  - 雲端供應商：新增 Linode、Vultr 為替代選項，不推薦阿里雲
 
 </details>
 
