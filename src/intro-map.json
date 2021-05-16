@@ -3,13 +3,13 @@
     "controls": {
       "control": [
         {
-          "ID": "321",
+          "ID": "462",
           "measuredH": "40",
-          "measuredW": "347",
+          "measuredW": "356",
           "properties": {
             "bold": "true",
             "size": "32",
-            "text": "Web Developer in 2019"
+            "text": "Web Developer in 2021"
           },
           "typeID": "Label",
           "x": "491",
@@ -17,10 +17,10 @@
           "zOrder": "0"
         },
         {
-          "ID": "322",
+          "ID": "463",
           "h": "129",
-          "measuredH": "127",
-          "measuredW": "54",
+          "measuredH": "128",
+          "measuredW": "74",
           "properties": {
             "color": "2848996",
             "curvature": "1",
@@ -38,7 +38,7 @@
           "zOrder": "1"
         },
         {
-          "ID": "323",
+          "ID": "464",
           "h": "131",
           "measuredH": "129",
           "measuredW": "131",
@@ -47,13 +47,13 @@
             "curvature": "1",
             "direction": "bottom",
             "leftArrow": "false",
-            "p0": { "x": 131, "y": 0, "length": 131 },
+            "p0": { "length": 131, "x": 131, "y": 0 },
             "p1": {
+              "length": 0.6087375480965977,
               "x": 0.5684088130944218,
-              "y": -0.21788259145523384,
-              "length": 0.6087375480965977
+              "y": -0.21788259145523384
             },
-            "p2": { "x": 1, "y": 129, "length": 129.00387591076478 },
+            "p2": { "length": 129.00387591076478, "x": 1, "y": 129 },
             "shape": "bezier"
           },
           "typeID": "Arrow",
@@ -63,9 +63,9 @@
           "zOrder": "2"
         },
         {
-          "ID": "324",
+          "ID": "465",
           "measuredH": "32",
-          "measuredW": "93",
+          "åmeasuredW": "93",
           "properties": {
             "align": "center",
             "color": "16767334",
@@ -79,7 +79,7 @@
           "zOrder": "3"
         },
         {
-          "ID": "325",
+          "ID": "466",
           "measuredH": "28",
           "measuredW": "167",
           "properties": {
@@ -93,7 +93,7 @@
           "zOrder": "4"
         },
         {
-          "ID": "326",
+          "ID": "467",
           "measuredH": "32",
           "measuredW": "179",
           "properties": {
@@ -109,7 +109,7 @@
           "zOrder": "5"
         },
         {
-          "ID": "327",
+          "ID": "468",
           "measuredH": "32",
           "measuredW": "50",
           "properties": {
@@ -121,11 +121,11 @@
           "typeID": "TextInput",
           "w": "289",
           "x": "67",
-          "y": "353",
+          "y": "318",
           "zOrder": "6"
         },
         {
-          "ID": "328",
+          "ID": "469",
           "measuredH": "32",
           "measuredW": "209",
           "properties": {
@@ -137,11 +137,11 @@
           "typeID": "TextInput",
           "w": "289",
           "x": "67",
-          "y": "391",
+          "y": "356",
           "zOrder": "7"
         },
         {
-          "ID": "329",
+          "ID": "470",
           "measuredH": "25",
           "measuredW": "175",
           "properties": {
@@ -155,7 +155,7 @@
           "zOrder": "8"
         },
         {
-          "ID": "330",
+          "ID": "471",
           "measuredH": "32",
           "measuredW": "192",
           "properties": {
@@ -171,49 +171,7 @@
           "zOrder": "9"
         },
         {
-          "ID": "331",
-          "measuredH": "25",
-          "measuredW": "69",
-          "properties": { "bold": "true", "size": "17", "text": "Legends" },
-          "typeID": "Label",
-          "x": "976",
-          "y": "41",
-          "zOrder": "10"
-        },
-        {
-          "ID": "332",
-          "measuredH": "32",
-          "measuredW": "234",
-          "properties": {
-            "align": "center",
-            "color": "16776960",
-            "size": "18",
-            "text": "Personal Recommendation!"
-          },
-          "typeID": "TextInput",
-          "w": "240",
-          "x": "976",
-          "y": "84",
-          "zOrder": "11"
-        },
-        {
-          "ID": "334",
-          "measuredH": "32",
-          "measuredW": "153",
-          "properties": {
-            "align": "center",
-            "color": "16770457",
-            "size": "18",
-            "text": "Available Options"
-          },
-          "typeID": "TextInput",
-          "w": "240",
-          "x": "976",
-          "y": "124",
-          "zOrder": "12"
-        },
-        {
-          "ID": "335",
+          "ID": "475",
           "h": "47",
           "measuredH": "46",
           "measuredW": "0",
@@ -222,9 +180,9 @@
             "curvature": "0",
             "direction": "top",
             "leftArrow": "false",
-            "p0": { "x": 0, "y": 0, "length": 0 },
-            "p1": { "x": 0.5, "y": 0, "length": 0.5 },
-            "p2": { "x": 0, "y": 46, "length": 46 },
+            "p0": { "length": 0, "x": 0, "y": 0 },
+            "p1": { "length": 0.5, "x": 0.5, "y": 0 },
+            "p2": { "length": 46, "x": 0, "y": 46 },
             "rightArrow": "false",
             "shape": "bezier"
           },
@@ -232,10 +190,10 @@
           "w": "1",
           "x": "664",
           "y": "135",
-          "zOrder": "13"
+          "zOrder": "10"
         },
         {
-          "ID": "336",
+          "ID": "476",
           "measuredH": "32",
           "measuredW": "92",
           "properties": {
@@ -248,10 +206,10 @@
           "w": "121",
           "x": "679",
           "y": "368",
-          "zOrder": "14"
+          "zOrder": "11"
         },
         {
-          "ID": "337",
+          "ID": "477",
           "h": "71",
           "measuredH": "69",
           "measuredW": "0",
@@ -271,10 +229,10 @@
           "w": "2",
           "x": "509",
           "y": "407",
-          "zOrder": "15"
+          "zOrder": "12"
         },
         {
-          "ID": "338",
+          "ID": "478",
           "h": "12",
           "measuredH": "11",
           "measuredW": "122",
@@ -283,13 +241,13 @@
             "curvature": "-1",
             "direction": "bottom",
             "leftArrow": "false",
-            "p0": { "x": 0, "y": 11, "length": 11 },
+            "p0": { "length": 11, "x": 0, "y": 11 },
             "p1": {
+              "length": 0.4574898035968877,
               "x": 0.45357350377687367,
-              "y": 0.059732713538640264,
-              "length": 0.4574898035968877
+              "y": 0.059732713538640264
             },
-            "p2": { "x": 122, "y": 4, "length": 122.06555615733703 },
+            "p2": { "length": 122.06555615733704, "x": 122, "y": 4 },
             "shape": "bezier",
             "stroke": "solid"
           },
@@ -297,10 +255,10 @@
           "w": "123",
           "x": "811",
           "y": "373",
-          "zOrder": "16"
+          "zOrder": "13"
         },
         {
-          "ID": "339",
+          "ID": "479",
           "measuredH": "32",
           "measuredW": "81",
           "properties": {
@@ -313,10 +271,10 @@
           "w": "112",
           "x": "946",
           "y": "361",
-          "zOrder": "17"
+          "zOrder": "14"
         },
         {
-          "ID": "340",
+          "ID": "480",
           "h": "71",
           "measuredH": "69",
           "measuredW": "0",
@@ -336,10 +294,10 @@
           "w": "2",
           "x": "729",
           "y": "410",
-          "zOrder": "18"
+          "zOrder": "15"
         },
         {
-          "ID": "341",
+          "ID": "481",
           "h": "77",
           "measuredH": "76",
           "measuredW": "0",
@@ -348,13 +306,13 @@
             "curvature": "1",
             "direction": "top",
             "leftArrow": "false",
-            "p0": { "x": 0, "y": 0, "length": 0 },
+            "p0": { "length": 0, "x": 0, "y": 0 },
             "p1": {
+              "length": 0.4539180376844135,
               "x": 0.4537465672812867,
-              "y": 0.01247548058061985,
-              "length": 0.4539180376844135
+              "y": 0.01247548058061985
             },
-            "p2": { "x": 0, "y": 76, "length": 76 },
+            "p2": { "length": 76, "x": 0, "y": 76 },
             "rightArrow": "false",
             "shape": "bezier",
             "stroke": "dotted"
@@ -363,74 +321,10 @@
           "w": "1",
           "x": "997",
           "y": "403",
-          "zOrder": "19"
+          "zOrder": "16"
         },
         {
-          "ID": "345",
-          "measuredH": "32",
-          "measuredW": "255",
-          "properties": {
-            "align": "center",
-            "color": "16776960",
-            "size": "18",
-            "text": "Data Structures & Algorithms"
-          },
-          "typeID": "TextInput",
-          "w": "288",
-          "x": "68",
-          "y": "159",
-          "zOrder": "21"
-        },
-        {
-          "ID": "346",
-          "measuredH": "32",
-          "measuredW": "188",
-          "properties": {
-            "align": "center",
-            "color": "16776960",
-            "size": "18",
-            "text": "Character Encodings"
-          },
-          "typeID": "TextInput",
-          "w": "288",
-          "x": "68",
-          "y": "469",
-          "zOrder": "22"
-        },
-        {
-          "ID": "349",
-          "measuredH": "32",
-          "measuredW": "146",
-          "properties": {
-            "align": "center",
-            "color": "16776960",
-            "size": "18",
-            "text": "Design Patterns"
-          },
-          "typeID": "TextInput",
-          "w": "288",
-          "x": "68",
-          "y": "430",
-          "zOrder": "23"
-        },
-        {
-          "ID": "350",
-          "measuredH": "32",
-          "measuredW": "177",
-          "properties": {
-            "align": "center",
-            "color": "16776960",
-            "size": "18",
-            "text": "SOLID, KISS, YAGNI"
-          },
-          "typeID": "TextInput",
-          "w": "288",
-          "x": "68",
-          "y": "197",
-          "zOrder": "24"
-        },
-        {
-          "ID": "354",
+          "ID": "482",
           "measuredH": "32",
           "measuredW": "70",
           "properties": {
@@ -443,11 +337,59 @@
           "typeID": "TextInput",
           "w": "288",
           "x": "68",
-          "y": "236",
+          "y": "201",
+          "zOrder": "17"
+        },
+        {
+          "ID": "483",
+          "measuredH": "32",
+          "measuredW": "255",
+          "properties": {
+            "align": "center",
+            "color": "16776960",
+            "size": "18",
+            "text": "Data Structures & Algorithms"
+          },
+          "typeID": "TextInput",
+          "w": "288",
+          "x": "68",
+          "y": "159",
+          "zOrder": "18"
+        },
+        {
+          "ID": "484",
+          "measuredH": "32",
+          "measuredW": "188",
+          "properties": {
+            "align": "center",
+            "color": "16776960",
+            "size": "18",
+            "text": "Character Encodings"
+          },
+          "typeID": "TextInput",
+          "w": "288",
+          "x": "68",
+          "y": "434",
+          "zOrder": "19"
+        },
+        {
+          "ID": "485",
+          "measuredH": "32",
+          "measuredW": "146",
+          "properties": {
+            "align": "center",
+            "color": "16776960",
+            "size": "18",
+            "text": "Design Patterns"
+          },
+          "typeID": "TextInput",
+          "w": "288",
+          "x": "68",
+          "y": "395",
           "zOrder": "20"
         },
         {
-          "ID": "355",
+          "ID": "487",
           "measuredH": "32",
           "measuredW": "88",
           "properties": {
@@ -460,11 +402,11 @@
           "typeID": "TextInput",
           "w": "288",
           "x": "68",
-          "y": "275",
-          "zOrder": "25"
+          "y": "240",
+          "zOrder": "21"
         },
         {
-          "ID": "356",
+          "ID": "488",
           "measuredH": "32",
           "measuredW": "182",
           "properties": {
@@ -477,15 +419,175 @@
           "typeID": "TextInput",
           "w": "288",
           "x": "68",
-          "y": "314",
-          "zOrder": "26"
+          "y": "279",
+          "zOrder": "22"
+        },
+        {
+          "ID": "489",
+          "children": {
+            "controls": {
+              "control": [
+                {
+                  "ID": "0",
+                  "h": "141",
+                  "measuredH": "70",
+                  "measuredW": "100",
+                  "properties": {},
+                  "typeID": "Canvas",
+                  "w": "350",
+                  "x": "0",
+                  "y": "0",
+                  "zOrder": "0"
+                },
+                {
+                  "ID": "1",
+                  "measuredH": "25",
+                  "measuredW": "314",
+                  "properties": {
+                    "color": "0",
+                    "size": "17",
+                    "text": "Find the detailed version of this roadmap"
+                  },
+                  "typeID": "Label",
+                  "x": "14",
+                  "y": "17",
+                  "zOrder": "1"
+                },
+                {
+                  "ID": "2",
+                  "measuredH": "25",
+                  "measuredW": "322",
+                  "properties": {
+                    "color": "0",
+                    "size": "17",
+                    "text": "along with resources and other roadmaps"
+                  },
+                  "typeID": "Label",
+                  "x": "14",
+                  "y": "45",
+                  "zOrder": "2"
+                },
+                {
+                  "ID": "3",
+                  "h": "45",
+                  "measuredH": "70",
+                  "measuredW": "100",
+                  "properties": {
+                    "borderColor": "4273622",
+                    "color": "4273622"
+                  },
+                  "typeID": "Canvas",
+                  "w": "320",
+                  "x": "15",
+                  "y": "81",
+                  "zOrder": "3"
+                },
+                {
+                  "ID": "4",
+                  "children": {
+                    "controls": {
+                      "control": [
+                        {
+                          "ID": "0",
+                          "measuredH": "28",
+                          "measuredW": "103",
+                          "properties": {
+                            "color": "16777215",
+                            "size": "20",
+                            "text": "roadmap.sh"
+                          },
+                          "typeID": "Label",
+                          "x": "65",
+                          "y": "0",
+                          "zOrder": "0"
+                        },
+                        {
+                          "ID": "1",
+                          "measuredH": "28",
+                          "measuredW": "36",
+                          "properties": {
+                            "color": "16777215",
+                            "size": "20",
+                            "text": "http"
+                          },
+                          "typeID": "Label",
+                          "x": "0",
+                          "y": "0",
+                          "zOrder": "1"
+                        },
+                        {
+                          "ID": "2",
+                          "measuredH": "28",
+                          "measuredW": "10",
+                          "properties": {
+                            "bold": "true",
+                            "color": "16777215",
+                            "size": "20",
+                            "text": ":"
+                          },
+                          "typeID": "Label",
+                          "x": "37",
+                          "y": "0",
+                          "zOrder": "2"
+                        },
+                        {
+                          "ID": "3",
+                          "measuredH": "28",
+                          "measuredW": "10",
+                          "properties": {
+                            "color": "16777215",
+                            "size": "20",
+                            "text": "/"
+                          },
+                          "typeID": "Label",
+                          "x": "44",
+                          "y": "1",
+                          "zOrder": "3"
+                        },
+                        {
+                          "ID": "4",
+                          "measuredH": "28",
+                          "measuredW": "10",
+                          "properties": {
+                            "color": "16777215",
+                            "size": "20",
+                            "text": "/"
+                          },
+                          "typeID": "Label",
+                          "x": "52",
+                          "y": "1",
+                          "zOrder": "4"
+                        }
+                      ]
+                    }
+                  },
+                  "h": "29",
+                  "measuredH": "29",
+                  "measuredW": "168",
+                  "typeID": "__group__",
+                  "w": "168",
+                  "x": "91",
+                  "y": "89",
+                  "zOrder": "4"
+                }
+              ]
+            }
+          },
+          "h": "141",
+          "measuredH": "141",
+          "measuredW": "350",
+          "typeID": "__group__",
+          "w": "350",
+          "x": "924",
+          "y": "81",
+          "zOrder": "23"
         }
       ]
     },
-    "measuredH": "501",
-    "measuredW": "1216",
-    "mockupH": "460",
-    "mockupW": "1149",
+    "measuredH": "481",
+    "measuredW": "1274",
+    "mockupH": "436",
+    "mockupW": "1207",
     "version": "1.0"
   }
 }
